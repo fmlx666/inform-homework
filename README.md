@@ -1,7 +1,6 @@
-# Poetry HTML Page — Maksym Rylskyi
-
+# Computer science repo
 ## Description
-This project is a minimalist static HTML page created to present a poem by the Ukrainian poet **Maksym Rylskyi**.
+This repo is created to store code for a practical tasks.
 
 ## Author
 Олівія Сироцинська
